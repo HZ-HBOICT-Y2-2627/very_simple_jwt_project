@@ -1,7 +1,7 @@
 # very_simple_jwt_project
 A very simple JWT implementation in express.
 
-Make sure you have the JWT_SECRET set in your .env file
+Make sure you have the JWT_SECRET set in your .env file, e.g.:
 `JWT_SECRET="a-strong-secret-keya-strong-secret-key"`
 
 Start project with `node src/app.js`
